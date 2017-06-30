@@ -8,37 +8,37 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.morphos"
-        },
-        "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.designbest.morphos"
+            "PACKAGE_NAME": "com.designbest.solamobili"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.morphos"
+            "PACKAGE_NAME": "com.designbest.solamobili"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.morphos"
+            "PACKAGE_NAME": "com.designbest.solamobili"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.morphos"
+            "PACKAGE_NAME": "com.designbest.solamobili"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.morphos"
+            "PACKAGE_NAME": "com.designbest.solamobili"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.morphos"
+            "PACKAGE_NAME": "com.designbest.solamobili"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.morphos"
+            "PACKAGE_NAME": "com.designbest.solamobili"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.designbest.solamobili"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.morphos"
+            "PACKAGE_NAME": "com.designbest.solamobili"
         }
     },
     "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.morphos"
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.designbest.solamobili"
         }
     }
 }

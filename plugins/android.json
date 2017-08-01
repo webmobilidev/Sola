@@ -7,38 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.solamobili"
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.solamobili"
+            "PACKAGE_NAME": "com.solamobili.SolaMobili"
         }
     }
 }
